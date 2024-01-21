@@ -1,0 +1,4 @@
+name: DontRunWithScissors
+version: '${project.version}'
+main: org.wade7.dontrunwithscissors.DontRunWithScissors
+api-version: '1.20'
